@@ -459,7 +459,7 @@ Now that we know the offsets for each row, we can read each row's data. We'll fi
 Because the first entry in the `item` table is weird, we'll look at the second:
 
 | Value | Description |
-| - | - | - |
+| - | - |
 |`1` | Row 1 ID |
 | `0x106C` | Row 1 Offset |
 
