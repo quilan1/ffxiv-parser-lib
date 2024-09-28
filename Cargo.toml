@@ -1,0 +1,9 @@
+[package]
+name = "ffxiv-parser-lib"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+byteorder = "1.5.0"
+crc = "3.2.1"
+flate2 = "1.0.33"
